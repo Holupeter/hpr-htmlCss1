@@ -1,0 +1,85 @@
+.menu{
+    width: 80%;
+    max-width: 500px;
+    background-color: #e0dccd;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  
+}
+.establish{
+    font-style: italic;
+}
+hr{
+    height: 2px;
+    background-color: #26436d;
+    border-color: #26436d;
+}
+body{
+    padding: 20px;
+    font-family: sans-serif;
+    background-image: url(https://simply-delicious-food.com/wp-content/uploads/2022/09/Breakfast-board28.jpg);
+}
+h1, h2, p{
+    text-align: center;
+}
+h1, h2{
+    margin-bottom: 15px;
+    margin-top: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.item p{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.flavor, .dessert{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    width: 10%;
+    text-align: right;
+}
+.niara{
+    display: inline-block;
+    width: 20px;
+    margin-bottom: -3px;
+    text-align: right;
+}
+.bottom-line{
+    margin-top: 25px;
+}
+/*FOOTER*/
+footer{
+    font-size: 14px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: #1b2f4d;
+}
+a:hover{
+    color: #26436d;
+}
+a:active{
+    color: #1b2f4d;
+}
+.address{
+    margin-bottom: 5px;
+}
+img{
+    display: block;
+    width: 10%;
+    margin-top: -10px;
+    margin-left: auto;
+    margin-right: auto;
+}
